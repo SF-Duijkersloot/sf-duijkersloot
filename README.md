@@ -4,7 +4,7 @@
 
 - 📖 I’m currently studying **Communication and Multimedia design - HvA**
 
-- 🌱 I want to learn **JS Frameworks**
+- 🌱 I want to learn **Animation Design**
 
 - 🖥️ My pride and joy project [Studio Pyår - Creative Agency](https://studiopyar.com)
 
